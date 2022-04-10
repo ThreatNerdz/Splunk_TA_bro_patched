@@ -14,9 +14,7 @@ Changes made under /local/ from bro to zeek:
  - transforms.conf remapped
  - lookups/* remapped & fields renamed
 
-![image](https://user-images.githubusercontent.com/56516924/162644220-cf4d1afa-444d-48e9-96b2-e308239ea6b0.png)
-
-![image](https://user-images.githubusercontent.com/56516924/162644327-77c0fa72-e2a4-4582-9c7e-6f45c3a425ca.png)
+![image](https://user-images.githubusercontent.com/56516924/162644486-e2f81b7d-914b-4220-b074-828462e4a66f.png)
 
 
 ## Acknowledgements
