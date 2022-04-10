@@ -1,0 +1,3 @@
+sourcetype, vendor, product
+zeek_*, zeek, zeek
+zeek:*, zeek, zeek

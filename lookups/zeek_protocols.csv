@@ -1,0 +1,17 @@
+sourcetype,transport,protocol
+zeek_ssh,tcp,
+zeek_ftp,tcp,
+zeek_smtp,tcp,smtp
+zeek_ssl,tcp,
+zeek_smtp_entities,tcp,
+zeek_http,tcp,
+zeek_dhcp,udp,
+zeek_conn,tcp,
+zeek:ssh:json,tcp,
+zeek:ftp:json,tcp,
+zeek:smtp:json,tcp,smtp
+zeek:ssl:json,tcp,
+zeek:smtp_entities:json,tcp,
+zeek:http:json,tcp,
+zeek:dhcp:json,udp,
+zeek:conn:json,tcp,

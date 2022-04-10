@@ -1,21 +1,21 @@
 {
   "schemaVersion": "1.0.0",
   "info": {
-    "title": "Splunk Add-on for Zeek aka Bro",
+    "title": "Splunk Add-on for Zeek aka Bro patched for DetectionLab",
     "id": {
       "group": null,
-      "name": "Splunk_TA_bro",
-      "version": "4.0.0"
+      "name": "Splunk_TA_bro_patched",
+      "version": "1.0.0"
     },
     "author": [
       {
-        "name": "Splunk, Inc.",
-        "email": "support@splunk.com",
+        "name": "Splunk, Inc., ThreatNerdz",
+        "email": "support@splunk.com, https://github.com/ThreatNerdz/Splunk_TA_bro_patched",
         "company": "Splunk, Inc."
       }
     ],
     "releaseDate": null,
-    "description": "Splunk Add-on for Zeek aka Bro",
+    "description": "Splunk Add-on for Zeek aka Bro, patched for CLong's DetectionLab by the ThreatNerdz (April 2022)",
     "classification": {
       "intendedAudience": "IT Professionals",
       "categories": ["Security, Fraud & Compliance"],
