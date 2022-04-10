@@ -4,6 +4,15 @@ Patches the Splunk_TA_bro that comes installed on logger within DetectionLab to 
 
 With the exception of field extractions, all other knowledge objects are dependant on the sourcetype being `sourcetype=bro:json`, whereas the sourcetype in DetectionLab is `sourcetype=zeek:json`.
 
+## Installation
+
+Navigate to the Splunk App's directory (cd /opt/splunk/etc/apps) and clone the repo.
+
+![image](https://user-images.githubusercontent.com/56516924/162644880-efccef39-029a-4966-9ecc-7eb4647abb9d.png)
+
+Then restart Splunk for the new knowledge objects to take effect.  It will take some time for historic data to have changes applied, data arriving from installation onwards will be correctly profiled.
+
+
 ## Changes
 
 Changes made under /local/ from bro to zeek:
