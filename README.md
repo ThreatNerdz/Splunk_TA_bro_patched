@@ -4,7 +4,7 @@ Patches the Splunk_TA_bro that comes installed on logger within DetectionLab to 
 
 With the exception of field extractions, all other knowledge objects are dependant on the sourcetype being `sourcetype=bro:json`, whereas the sourcetype in DetectionLab is `sourcetype=zeek:json`.
 
-It's worth noting that this may all have been remediated by the [TA for Zeek](https://splunkbase.splunk.com/app/5466/) on Splunkbase.
+It's worth noting that this may all have been remediated by the [TA for Zeek](https://splunkbase.splunk.com/app/5466/) on Splunkbase. #JourneyBeforeDestination
 
 ## Installation
 
